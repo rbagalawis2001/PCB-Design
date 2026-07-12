@@ -1,0 +1,12 @@
+Project.zip and revisions goes here
+- Unzipped should look like
+  - Project Folder
+      - Project file
+      - Schematic file
+      - Board file
+      - Symbol library 
+      - Foot print library
+      - 3D Models
+        - STEp Files
+      - Output Folder
+        - Gerber, drill, etc. *if applicable*
